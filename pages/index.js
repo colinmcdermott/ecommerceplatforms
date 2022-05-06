@@ -21,7 +21,13 @@ export default function Home() {
         <p className="description">
             You can find the companion article for this cheatsheet <a href="https://www.searchcandy.uk/ecommerce/platforms/" target="_blank">here</a>.
         </p>
+    
+    <div class="iframeContainer">
+          <iframe class="airtable-embed" src="https://airtable.com/embed/shrrU2ZRVE8SHBNsX?backgroundColor=pink&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+    </div>
+    
       </main>
+    
 
       <Footer />
     </div>
