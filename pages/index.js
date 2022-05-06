@@ -22,17 +22,6 @@ export default function Home() {
             You can find the companion article for this cheatsheet <a href="https://www.searchcandy.uk/ecommerce/platforms/" target="_blank">here</a>.
         </p>
       </main>
-    
-    <nav>
-    <ul>
-    <li><a href="/">Shopify</a></li>
-    <li><a href="/">BigCommerce</a></li>
-    <li><a href="/">WooCommerce</a></li>
-    <li><a href="/">Squarespace</a></li>
-    <li><a href="/">magento</a></li>
-    <li><a href="/">Wix</a></li>
-    </ul>
-    </nav>
 
       <Footer />
     </div>
