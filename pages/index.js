@@ -24,12 +24,14 @@ export default function Home() {
       </main>
     
     <nav>
+    <ul>
     <li><a href="/">Shopify</a></li>
     <li><a href="/">BigCommerce</a></li>
     <li><a href="/">WooCommerce</a></li>
     <li><a href="/">Squarespace</a></li>
     <li><a href="/">magento</a></li>
     <li><a href="/">Wix</a></li>
+    </ul>
     </nav>
 
       <Footer />
