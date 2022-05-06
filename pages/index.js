@@ -13,9 +13,24 @@ export default function Home() {
       <main>
         <Header title="Ecommerce Platforms" />
         <p className="description">
-          Welcome to Ecommerce Platforms! A cheatsheet/list of ecommerce platforms, brought to you by <a href="https://www.searchcandy.uk/" target="_blank">Search Candy</a>
+            Welcome to Ecommerce Platforms!
+        </p>
+        <p className="description">
+            A cheatsheet/list of ecommerce platforms, brought to you by <a href="https://www.searchcandy.uk/" target="_blank">Search Candy</a>.
+        </p>
+        <p className="description">
+            You can find the companion article for this cheatsheet <a href="https://www.searchcandy.uk/ecommerce/platforms/" target="_blank">here</a>.
         </p>
       </main>
+    
+    <nav>
+    <li><a href="/">Shopify</a></li>
+    <li><a href="/">BigCommerce</a></li>
+    <li><a href="/">WooCommerce</a></li>
+    <li><a href="/">Squarespace</a></li>
+    <li><a href="/">magento</a></li>
+    <li><a href="/">Wix</a></li>
+    </nav>
 
       <Footer />
     </div>
